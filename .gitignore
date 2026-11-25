@@ -1,0 +1,12 @@
+# Hasil data dan model dibuat pada tahap berikutnya
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+models/*.joblib
+models/*.npz
+reports/figures/*.png
+reports/evaluation/*.csv
+!models/.gitkeep
+!reports/figures/.gitkeep
+!reports/evaluation/.gitkeep
