@@ -7,3 +7,4 @@ joblib>=1.4,<2
 jupyterlab>=4.2,<5
 ipykernel>=6.29,<8
 streamlit>=1.40,<2
+streamlit-option-menu
